@@ -26,13 +26,12 @@ npm i -D style-loader css-loader
 
 ```
 npm i -D file-loader
-
 ```
 
 #### - 파일 정리 plugin
 
 ```
- npm i -D clean-webpack-plugin
+npm i -D clean-webpack-plugin
 ```
 
 #### - 하위 브라우저 대응을 위한 babel 설치
